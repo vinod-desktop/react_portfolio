@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ba2f6d29faf6f137225d5c2d88ef803",
+    "revision": "ac2fc346455a5c98551eee6181775be6",
     "url": "/react_portfolio/index.html"
   },
   {
-    "revision": "d4570100bfec5bb4b150",
-    "url": "/react_portfolio/static/css/main.24fc28c5.chunk.css"
+    "revision": "ce69426d452d0d9b0d1d",
+    "url": "/react_portfolio/static/css/main.db07383f.chunk.css"
   },
   {
-    "revision": "3b7e5f7ced2dbdd028db",
-    "url": "/react_portfolio/static/js/2.0dcf324a.chunk.js"
+    "revision": "6107e6b8841b1b8b3d09",
+    "url": "/react_portfolio/static/js/2.cefb6bdd.chunk.js"
   },
   {
-    "revision": "d4570100bfec5bb4b150",
-    "url": "/react_portfolio/static/js/main.76d6bd07.chunk.js"
+    "revision": "ce69426d452d0d9b0d1d",
+    "url": "/react_portfolio/static/js/main.701f6b6f.chunk.js"
   },
   {
     "revision": "d79d8f6c79c652609322",
@@ -254,6 +254,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
     "url": "/react_portfolio/static/media/muffito_logo.069938a8.png"
+  },
+  {
+    "revision": "2734addac0752ac72f8741f0e68fd0f4",
+    "url": "/react_portfolio/static/media/no_bg_vinod.2734adda.png"
   },
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",

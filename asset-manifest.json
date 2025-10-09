@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_portfolio/static/css/main.24fc28c5.chunk.css",
-    "main.js": "/react_portfolio/static/js/main.76d6bd07.chunk.js",
-    "main.js.map": "/react_portfolio/static/js/main.76d6bd07.chunk.js.map",
+    "main.css": "/react_portfolio/static/css/main.db07383f.chunk.css",
+    "main.js": "/react_portfolio/static/js/main.701f6b6f.chunk.js",
+    "main.js.map": "/react_portfolio/static/js/main.701f6b6f.chunk.js.map",
     "runtime-main.js": "/react_portfolio/static/js/runtime-main.6071f0e5.js",
     "runtime-main.js.map": "/react_portfolio/static/js/runtime-main.6071f0e5.js.map",
-    "static/js/2.0dcf324a.chunk.js": "/react_portfolio/static/js/2.0dcf324a.chunk.js",
-    "static/js/2.0dcf324a.chunk.js.map": "/react_portfolio/static/js/2.0dcf324a.chunk.js.map",
+    "static/js/2.cefb6bdd.chunk.js": "/react_portfolio/static/js/2.cefb6bdd.chunk.js",
+    "static/js/2.cefb6bdd.chunk.js.map": "/react_portfolio/static/js/2.cefb6bdd.chunk.js.map",
     "index.html": "/react_portfolio/index.html",
-    "precache-manifest.74484c022752303053b1f3e4a5af8150.js": "/react_portfolio/precache-manifest.74484c022752303053b1f3e4a5af8150.js",
+    "precache-manifest.75e8ddbce02ded826211036a13da586e.js": "/react_portfolio/precache-manifest.75e8ddbce02ded826211036a13da586e.js",
     "service-worker.js": "/react_portfolio/service-worker.js",
-    "static/css/main.24fc28c5.chunk.css.map": "/react_portfolio/static/css/main.24fc28c5.chunk.css.map",
+    "static/css/main.db07383f.chunk.css.map": "/react_portfolio/static/css/main.db07383f.chunk.css.map",
     "static/media/Accenture.webp": "/react_portfolio/static/media/Accenture.b8ec5eda.webp",
     "static/media/index.css": "/react_portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/ScalerTopics_Logo.svg": "/react_portfolio/static/media/ScalerTopics_Logo.e47e78a1.svg",
@@ -49,6 +49,7 @@
     "static/media/manOnTable.svg": "/react_portfolio/static/media/manOnTable.83ac24fb.svg",
     "static/media/microsoft_text_logo.avif": "/react_portfolio/static/media/microsoft_text_logo.7ec59f51.avif",
     "static/media/muffito_logo.png": "/react_portfolio/static/media/muffito_logo.069938a8.png",
+    "static/media/no_bg_vinod.png": "/react_portfolio/static/media/no_bg_vinod.2734adda.png",
     "static/media/nptel_logo.png": "/react_portfolio/static/media/nptel_logo.95a12a2b.png",
     "static/media/php_intern_logo.png": "/react_portfolio/static/media/php_intern_logo.e7ac354c.png",
     "static/media/portfolio.gif": "/react_portfolio/static/media/portfolio.414dfbd9.gif",
@@ -65,8 +66,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6071f0e5.js",
-    "static/js/2.0dcf324a.chunk.js",
-    "static/css/main.24fc28c5.chunk.css",
-    "static/js/main.76d6bd07.chunk.js"
+    "static/js/2.cefb6bdd.chunk.js",
+    "static/css/main.db07383f.chunk.css",
+    "static/js/main.701f6b6f.chunk.js"
   ]
 }
